@@ -16,8 +16,8 @@
 
 ## Quick links
 
-{% content-ref url="paper/mu-lu-ye-paper.md" %}
-[mu-lu-ye-paper.md](paper/mu-lu-ye-paper.md)
+{% content-ref url="paper/mu-lu-ye-paper/" %}
+[mu-lu-ye-paper](paper/mu-lu-ye-paper/)
 {% endcontent-ref %}
 
 {% content-ref url="ppt/mu-lu-ye-ppt.md" %}

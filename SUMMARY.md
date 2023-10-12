@@ -4,8 +4,8 @@
 
 ## Paper
 
-* [📖 目录页——Paper](paper/mu-lu-ye-paper.md)
-* [【GPT】使用GPT进行英文润色](paper/gpt-shi-yong-gpt-jin-hang-ying-wen-run-se.md)
+* [📖 目录页——Paper](paper/mu-lu-ye-paper/README.md)
+  * [【GPT】使用GPT进行英文润色](paper/mu-lu-ye-paper/gpt-shi-yong-gpt-jin-hang-ying-wen-run-se.md)
 * [【Overleaf】免费Overleaf专业版](paper/overleaf-mian-fei-overleaf-zhuan-ye-ban.md)
 * [【LaTex】截图公式识别LaTex](paper/latex-jie-tu-gong-shi-shi-bie-latex.md)
 * [【文献】文献阅读管理工具](paper/wen-xian-wen-xian-yue-du-guan-li-gong-ju.md)

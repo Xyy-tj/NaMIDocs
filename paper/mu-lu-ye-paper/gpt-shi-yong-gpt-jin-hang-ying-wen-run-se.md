@@ -9,14 +9,14 @@
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../.gitbook/assets/1695437221319.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1695437221319.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 3. 回到对话页面，点击左下角“个人仓库”，选择“英文学术润色助手”（点击整个框即可，不需要点三角）
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 4. 不需要提示词，直接输入需要润色的段落内容，返回逐句润色结果。
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
