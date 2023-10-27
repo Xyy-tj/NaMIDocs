@@ -25,6 +25,7 @@
 * [💻 目录页——CODING](coding/mu-lu-ye-coding.md)
 * [【服务器】使用NaMI服务器](coding/fu-wu-qi-shi-yong-nami-fu-wu-qi.md)
 * [【Linux】Linux常用指令清单](coding/linuxlinux-chang-yong-zhi-ling-qing-dan.md)
+* [【Github】同步Github私有仓库](coding/github-tong-bu-github-si-you-cang-ku.md)
 
 ## PROJECTS
 
