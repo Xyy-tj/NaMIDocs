@@ -6,7 +6,7 @@
 
 * [📖 目录页——Paper](paper/mu-lu-ye-paper/README.md)
   * [【GPT】使用GPT进行英文润色](paper/mu-lu-ye-paper/gpt-shi-yong-gpt-jin-hang-ying-wen-run-se.md)
-* [【Overleaf】免费Overleaf专业版](paper/overleaf-mian-fei-overleaf-zhuan-ye-ban.md)
+* [【LaTex】免费Overleaf专业版](paper/overleaf-mian-fei-overleaf-zhuan-ye-ban.md)
 * [【LaTex】截图公式识别LaTex](paper/latex-jie-tu-gong-shi-shi-bie-latex.md)
 * [【文献】文献阅读管理工具](paper/wen-xian-wen-xian-yue-du-guan-li-gong-ju.md)
 * [【文献】文献量子速读法](paper/wen-xian-wen-xian-liang-zi-su-du-fa.md)
@@ -40,7 +40,3 @@
 ## Neural Networks
 
 * [【预处理】Pre-Processing](neural-networks/yu-chu-li-preprocessing.md)
-
-## OFFICE
-
-* [Page 2](office/page-2.md)
