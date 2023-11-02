@@ -21,7 +21,7 @@
 ## PPT
 
 * [🌌 目录页——PPT](ppt/mu-lu-ye-ppt.md)
-* [【模板】NaMI实验室PPT模板下载](ppt/mo-ban-nami-shi-yan-shi-ppt-mo-ban-xia-zai.md)
+* [【模板】NaMI PPT模板](ppt/mo-ban-nami-shi-yan-shi-ppt-mo-ban-xia-zai.md)
 * [【教程】PPT制作技巧](ppt/jiao-cheng-ppt-zhi-zuo-ji-qiao.md)
 * [【素材】PPT素材获取](ppt/su-cai-ppt-su-cai-huo-qu.md)
 
