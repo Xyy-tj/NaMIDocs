@@ -16,6 +16,7 @@
 ## WORD
 
 * [【公式编辑】Word公式编辑](word/gong-shi-bian-ji-word-gong-shi-bian-ji.md)
+* [【对象】插入可编辑图片](word/dui-xiang-cha-ru-ke-bian-ji-tu-pian.md)
 
 ## PPT
 
