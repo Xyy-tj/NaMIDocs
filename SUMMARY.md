@@ -15,7 +15,7 @@
 
 ## WORD
 
-* [Page 1](word/page-1.md)
+* [【公式编辑】Word公式编辑](word/gong-shi-bian-ji-word-gong-shi-bian-ji.md)
 
 ## PPT
 

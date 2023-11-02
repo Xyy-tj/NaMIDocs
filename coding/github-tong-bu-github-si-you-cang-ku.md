@@ -21,11 +21,11 @@ ssh-rsa AAAAB3NzaC1yc2E……(不予显示)……lsUltsIji60PfEf2bhexgRayWbdNJZl
 
 打开Github，点击右上角头像-Setting，进入SSH and GPG keys：
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 点击Net SSH Key，录入复制好的SSH公钥内容：
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 使用命令测试连接情况：
 
@@ -37,11 +37,11 @@ ssh -T git@github.com
 
 连接成功的情况下，显示：
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 然后打开私有仓库页面，复制SSH链接：
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 回到Linux终端，执行下列命令：
 
