@@ -40,3 +40,7 @@
 ## Neural Networks
 
 * [【预处理】Pre-Processing](neural-networks/yu-chu-li-preprocessing.md)
+
+## Tongji
+
+* [自助打印](tongji/zi-zhu-da-yin.md)
