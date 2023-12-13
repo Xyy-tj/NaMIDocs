@@ -1,4 +1,4 @@
-# 【Overleaf】免费Overleaf专业版
+# 【LaTex】免费Overleaf专业版
 
 {% hint style="info" %}
 **Overleaf专业版有什么用？**
@@ -6,7 +6,7 @@
 拥有专业版的账号，可以进入review模式，为别人分享的文章进行修改和注释，也可以查看历史版本等。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 进入到[IEEE Collabratec](https://ieee-collabratec.ieee.org/)官网注册个账号
 2. 进入登陆好的IEEE Collabratec主页，从右上角的Settings里进入Attached service
