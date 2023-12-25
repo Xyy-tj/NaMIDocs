@@ -6,6 +6,10 @@
 **坏消息：专利授权需要两年，用不上了。**
 {% endhint %}
 
+国家专利查询网站（需要自行注册自然人账号）：
+
+{% embed url="https://tysf.cponline.cnipa.gov.cn/am/" %}
+
 学校专利申请登记网站：
 
 {% embed url="http://zlgl.tongji.edu.cn/" %}
