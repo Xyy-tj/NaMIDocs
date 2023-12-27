@@ -10,6 +10,6 @@ NaMI实验室PPT模版（16:9，层次背景），点击下面的链接可以下
 点击此文件下载
 {% endfile %}
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>标题页预览</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>标题页预览</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>目录页预览</p></figcaption></figure>
