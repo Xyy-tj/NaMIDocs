@@ -10,6 +10,8 @@
 
 本项目完全自发启动，欢迎更多热心的同学加入并编辑，也欢迎提出自己感兴趣的知识点和内容，我们会整理和补充。同时也欢迎大家加入修订，共同维护！
 
+<figure><img src=".gitbook/assets/nami.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **不保证实时更新，主打干一天算一天。**
 {% endhint %}
